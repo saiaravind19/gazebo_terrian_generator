@@ -55,6 +55,8 @@ pip install -r requirements.txt
 
 2. To access application open up your web browser and navigate to `http://localhost:8080`.
 3. Gazebo world generated are stored inside `output/gazebo_terrian/` by default. Feel free to change the path defined in `scripts/utils/param.py` as per you choice.
+4. Default zoom level set to 17 but one can change it between 1 to 20
+5. Click on more option in the UI and chnage the output directory name as per choice.
 
 ### 4. Spawning the gazebo world
 1. Export gazebo resource path based on your gazebo version. Use the table below as reference.
